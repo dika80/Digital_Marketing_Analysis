@@ -3,10 +3,10 @@ This Data Analysis project aims to provide insights into the costs and revenue o
 
 ### Objective
 This project analyzes FreshCart's past advertising data and creates a strategy to optimize its digital ad spending. The specific objectives are:
-  A. Evaluate the effectiveness of current advertising campaigns across platforms.
-  B. Identify top-performing channels for advertising.
-  C. Assess demography engagement and conversion rates.
-  D. Recommend strategies for better budget allocation.
+- A. Evaluate the effectiveness of current advertising campaigns across platforms.
+- B. Identify top-performing channels for advertising.
+- C. Assess demography engagement and conversion rates.
+- D. Recommend strategies for better budget allocation.
 
 ### Problem statement
 FreshCart, like many e-commerce platforms, relies heavily on online advertising to acquire new customers and retain existing ones. However, amid an increasingly competitive market and fluctuating ad costs, the company has identified two main challenges:
@@ -15,23 +15,23 @@ B. Identifying Effective Channels: With multiple platforms available for adverti
 As the competition in the online grocery sector has skyrocketed, the cost of customer acquisition is rising. FreshCart is looking for the most efficient way to save costs and optimize its digital ad spend.
 ### Data Source
 The primary dataset used for this analysis is "Digital_Marketing_Analysis.xlsx", which contains the following information:
-•	Platform
-•	adStartDate
-•	adDurationDate
-•	Costs
-•	Impression
-•	Clicks
-•	Conversions
-•	ConversionValue
-•	State
-•	CPC
+- Platform
+- adStartDate
+- adDurationDate
+- Costs
+- Impression
+- Clicks
+- Conversions
+- ConversionValue
+- State
+- CPC
 
 ### Methodology
 For one to analyze the marketing ad data, we already had cleaned data. We went ahead to performed Exploratory Data Analysis(EDA).
 Here, some major cost metrics were extracted using:
-•	Total Costs per Platform: Studying the costs put in for each platform
-•	Total Revenue per Platform: Analysing which platform had the most revenue
-•	Comparison-Sales by Store: Understanding which states had the highest cost and revenue respectively
+- Total Costs per Platform: Studying the costs put in for each platform
+- Total Revenue per Platform: Analysing which platform had the most revenue
+- Comparison-Sales by Store: Understanding which states had the highest cost and revenue respectively
 
 ### Key Insights
 From the analysis, we observed the following:
