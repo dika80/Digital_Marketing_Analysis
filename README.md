@@ -3,10 +3,10 @@ This Data Analysis project aims to provide insights into the costs and revenue o
 
 ### Objective
 This project analyzes FreshCart's past advertising data and creates a strategy to optimize its digital ad spending. The specific objectives are:
-A. Evaluate the effectiveness of current advertising campaigns across platforms.
-B. Identify top-performing channels for advertising.
-C. Assess demography engagement and conversion rates.
-D. Recommend strategies for better budget allocation.
+  A. Evaluate the effectiveness of current advertising campaigns across platforms.
+  B. Identify top-performing channels for advertising.
+  C. Assess demography engagement and conversion rates.
+  D. Recommend strategies for better budget allocation.
 
 ### Problem statement
 FreshCart, like many e-commerce platforms, relies heavily on online advertising to acquire new customers and retain existing ones. However, amid an increasingly competitive market and fluctuating ad costs, the company has identified two main challenges:
